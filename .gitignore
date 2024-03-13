@@ -1,4 +1,5 @@
 tools/*
+demo/graphics
 
 exe/libjpeg.6.dll
 exe/libpng3.dll
@@ -11,7 +12,6 @@ exe/x13as_ascii.exe
 exe/x13as_html.exe
 exe/zlib1.dll
 
-demo/graphics
 doc/1980x11arimamanual.pdf
 doc/25_2015_abeln_jacobs.pdf
 doc/CAMPLET.pdf
