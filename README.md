@@ -9,10 +9,8 @@ The toolbox supports the X-13ARIMA-SEATS and the X-12-ARIMA programs of the US C
 
 Note: To get the complete functionality the toolbox requires freely available executables from the US Census Bureau in order to run. It attempts to download these executables automatically for you whenever you need one that is not on your harddrive. Of course, that works only if you are online, and it is limited to Windows computers. Versions of these programs for other operating systems are available from the Census website, however, and can easily be installed manually.
 
-Also, the X-12 version of the program is no longer publicly available from the Census website. If you have a local copy of x12a.exe or x12a64.exe, the toolbox still supports it, but you cannot download it anymore.
-
 Please comment below if you find this software useful ... or lacking.
 
 ### Cite As
 
-Yvan Lengwiler (2024). X-13 Toolbox for Seasonal Filtering (https://www.mathworks.com/matlabcentral/fileexchange/49120-x-13-toolbox-for-seasonal-filtering), MATLAB Central File Exchange. Retrieved March 13, 2024.
+Yvan Lengwiler (2024). X-13 Toolbox for Seasonal Filtering, [github/fengineering-ch/x13tbx¨(https://github.com/fengineering-ch/x13tbx). Retrieved March 13, 2024.
