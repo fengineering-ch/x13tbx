@@ -1,0 +1,57 @@
+tools/*
+exe/*
+demo/graphics
+doc/1980x11arimamanual.pdf
+doc/25_2015_abeln_jacobs.pdf
+doc/CAMPLET.pdf
+doc/docx13as.pdf
+doc/docx13ashtml.pdf
+doc/dt9628e.pdf
+doc/Emanual.pdf
+doc/ffc2000.pdf
+doc/g18-1-v1-1-a-checklists.pdf
+doc/gettingstartedx13acc-winx13.pdf
+doc/method1.pdf
+doc/qrefx13ashtmlpc.pdf
+doc/qrefx13aspc.pdf
+doc/shiskinyoungmusgrave1967.pdf
+doc/x11_french.pdf
+doc/x12adocV03.pdf
+
+# Created by https://www.toptal.com/developers/gitignore/api/matlab
+# Edit at https://www.toptal.com/developers/gitignore?templates=matlab
+
+### MATLAB ###
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info
+octave-workspace
+
+# End of https://www.toptal.com/developers/gitignore/api/matlab
