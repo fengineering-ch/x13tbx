@@ -1,20 +1,7 @@
-tools/*
-demo/graphics
-
-exe/libjpeg.6.dll
-exe/libpng3.dll
-exe/X11Q2.exe
-exe/X11SS.exe
-exe/x12a.exe
-exe/x12a64.exe
-exe/x12diag03.exe
-exe/x13as_ascii.exe
-exe/x13as_html.exe
-exe/zlib1.dll
-
+*.dll
+*.exe
 doc/1980x11arimamanual.pdf
 doc/25_2015_abeln_jacobs.pdf
-doc/CAMPLET.pdf
 doc/docx13as.pdf
 doc/docx13ashtml.pdf
 doc/dt9628e.pdf
@@ -22,13 +9,15 @@ doc/Emanual.pdf
 doc/ffc2000.pdf
 doc/g18-1-v1-1-a-checklists.pdf
 doc/gettingstartedx13acc-winx13.pdf
-doc/method1.pdf
 doc/qrefx13ashtmlpc.pdf
 doc/qrefx13aspc.pdf
 doc/shiskinyoungmusgrave1967.pdf
 doc/x11_french.pdf
 doc/x12adocV03.pdf
+demo/graphics/
+tools/
 
+# ---------------------------------------------------------------------------
 # Created by https://www.toptal.com/developers/gitignore/api/matlab
 # Edit at https://www.toptal.com/developers/gitignore?templates=matlab
 
